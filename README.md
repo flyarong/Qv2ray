@@ -1,4 +1,4 @@
-# Qv2ray - Make v2ray real cross-platform
+# Qv2ray - Make V2ray real cross-platform
 
 [![HitCount](http://hits.dwyl.io/Qv2ray/Qv2ray.svg)](http://hits.dwyl.io/Qv2ray/Qv2ray)
 [![GitHub Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/latest/total?style=flat-square&logo=github)](https://github.com/Qv2ray/Qv2ray/releases)
@@ -62,6 +62,11 @@
   <td>Scoop</td>
   <td><a href="https://github.com/lukesampson/scoop-extras/blob/master/bucket/qv2ray.json"><img alt="scoop" src="https://img.shields.io/badge/scoop--extras-available-blue" /></a></td>
  </tr>
+ 
+ <tr>
+ <td>Chocolatey</td>
+ <td><a href="https://chocolatey.org/packages/qv2ray"><img alt="Chocolatey Version" src="https://img.shields.io/chocolatey/v/qv2ray"></a></td>
+ </tr>
 
  <tr>
   <td>Snapcraft</td>
@@ -91,7 +96,7 @@
 ## Special Thanks
 - **Quality Assurance & User Experience:** [@DuckSoft](https://github.com/DuckSoft/)
 - **Debian-based distro Packager:** [@ymshenyu](https://github.com/ymshenyu)
-
+- [**JetBrains Developer Toolbox**](https://www.jetbrains.com/?from=Qv2ray)
 -------------------------------
 
 ## Copyright
@@ -106,7 +111,7 @@
 Qv2ray is licenced under [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
 ```
-    Qv2ray, A Qt frontend for v2ray. Written in c++
+    Qv2ray, A Qt frontend for v2ray. Written in C++
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
